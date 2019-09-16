@@ -1,0 +1,2 @@
+# variancia
+Pointer training
